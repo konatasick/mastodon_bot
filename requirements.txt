@@ -1,0 +1,2 @@
+tqdm==4.32.2
+mastodon.py==1.5.1
