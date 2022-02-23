@@ -56,5 +56,5 @@ python Friday_bot.py
 
 在crontab添加任务如下：
 ```shell
-30 9    * * 5   root    /root/anaconda3/envs/mastodon/bin/python /home/mastodon/tool/mastodon_bot/Friday_bot.py >> /home/mastodon/tool/mastodon_bot/Friday_bot.log 2>&1
+30 9    * * 5   root    /root/anaconda3/envs/mastodon/bin/python your_path_to/Friday_bot.py >> your_path_to/Friday_bot.log 2>&1
 ```
